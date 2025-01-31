@@ -27,7 +27,7 @@ pip install -r requirements.txt  # If applicable
 
 ## Usage
 
-This repository contains multiple Jupyter Notebook (`.ipynb`) files, each addressing different aspects of the analysis. The dataset required for the project has also been included.
+This repository contains the Google Colab Notebook (`.ipynb`) file, addressing different aspects of the analysis. The dataset required for the project has also been included.
 
 To run the notebooks:
 ```sh
