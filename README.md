@@ -2,6 +2,10 @@
 
 This project involves analyzing the ISCXVPN2016 dataset to classify network traffic as malicious or benign. The approach taken includes transforming data packets using a Fast Fourier Transform (FFT) to analyze them in the frequency domain and gaining statistical insights into the dataset. The combination of traditional signal processing techniques with statistical analysis provides a deeper understanding of network traffic patterns.
 
+## Output images for the given ipynb file
+
+Link: https://drive.google.com/drive/u/0/folders/1BAeD5_PdCvqe-0dbGJjk4xG2Zbbe7FJG
+
 ## Table of Contents
 
 - [Installation](#installation)
